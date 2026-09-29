@@ -1,7 +1,7 @@
-target_group,n,length,charge_density,hydrophobic_fraction
-Gram+ only,336,12.0,0.27,0.5
-Gram- only,254,15.0,0.33,0.38
-Gram+ & Gram-,1244,17.0,0.24,0.44
-Fungus only,118,9.0,0.33,0.44
-Virus only,358,18.0,0.0,0.43
-Cancer only,58,12.0,0.07,0.57
+target_group,n,length,charge_per_residue,gravy
+Gram+ only,363,11.0,0.25,-0.4
+Gram- only,268,14.0,0.31,-0.97
+Gram+ & Gram-,1318,16.0,0.22,-0.21
+Fungus only,132,9.0,0.32,-0.85
+Virus only,380,18.0,-0.02,-0.13
+Cancer only,58,12.0,0.06,0.94
