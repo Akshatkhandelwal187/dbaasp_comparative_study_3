@@ -1,0 +1,5 @@
+feature,median_Natural,median_Synthetic,cliffs_delta,effect,p_value
+length,25.0,15.0,0.441,medium,0.0
+net_charge,3.0,4.0,-0.28,small,1.644994599872126e-139
+charge_density,0.1,0.2857142857142857,-0.598,large,0.0
+hydrophobic_fraction,0.425,0.4444444444444444,-0.079,negligible,1.4215664827116085e-12
