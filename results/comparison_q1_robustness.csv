@@ -1,10 +1,10 @@
 subset,n_nat/n_syn,feature,median_Natural,median_Synthetic,cliffs_delta,effect,p_value
-all peptides,3239/14957,length,25.0,15.0,0.441,medium,0.0
-all peptides,3239/14957,charge_density,0.1,0.2857142857142857,-0.598,large,0.0
-all peptides,3239/14957,hydrophobic_fraction,0.425,0.4444444444444444,-0.079,negligible,1.4215664827116085e-12
-Short (10-24 aa) only,1310/10213,length,18.0,15.0,0.277,small,3.0587499842820924e-60
-Short (10-24 aa) only,1310/10213,charge_density,0.1,0.3,-0.66,large,0.0
-Short (10-24 aa) only,1310/10213,hydrophobic_fraction,0.5217391304347826,0.4583333333333333,0.188,small,9.82218257160345e-29
-no D-amino acids,3127/13459,length,25.0,16.0,0.465,medium,0.0
-no D-amino acids,3127/13459,charge_density,0.1034482758620689,0.2777777777777778,-0.576,large,0.0
-no D-amino acids,3127/13459,hydrophobic_fraction,0.4193548387096774,0.4444444444444444,-0.078,negligible,8.478581494728822e-12
+all peptides,2308/7314,length,25.0,15.0,0.467,medium,2.53926958192637e-252
+all peptides,2308/7314,charge_density,0.0967741935483871,0.2857142857142857,-0.598,large,0.0
+all peptides,2308/7314,hydrophobic_fraction,0.4090909090909091,0.4545454545454545,-0.164,small,1.6215169726511288e-32
+Short (10-24 aa) only,879/4808,length,18.0,15.0,0.279,small,6.0087736595539765e-40
+Short (10-24 aa) only,879/4808,charge_density,0.1,0.3,-0.662,large,1.7381674244756134e-214
+Short (10-24 aa) only,879/4808,hydrophobic_fraction,0.5217391304347826,0.4615384615384615,0.135,negligible,1.5286270621844602e-10
+no D-amino acids,2233/6834,length,26.0,15.0,0.492,large,3.495820696237999e-268
+no D-amino acids,2233/6834,charge_density,0.1,0.2857142857142857,-0.588,large,0.0
+no D-amino acids,2233/6834,hydrophobic_fraction,0.4047619047619047,0.4545454545454545,-0.171,small,7.163771380838589e-34

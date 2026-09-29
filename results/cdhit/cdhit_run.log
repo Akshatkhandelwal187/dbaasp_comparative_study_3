@@ -1,0 +1,39 @@
+================================================================
+Program: CD-HIT, V4.8.1 (+OpenMP), Aug 20 2021, 08:39:56
+Command: cd-hit -i ../results/cdhit/input.fasta -o
+         ../results/cdhit/representatives.fasta -c 0.9 -n 5 -l
+         4 -d 0 -M 0 -T 1
+
+Started: Tue Sep 29 22:19:27 2026
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 17577
+longest and shortest : 190 and 5
+Total letters: 343135
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 2M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 79M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 61095000
+
+
+comparing sequences from          0  to      17577
+..........
+..........    10000  finished       5240  clusters
+.......
+    17577  finished       9310  clusters
+
+Approximated maximum memory consumption: 80M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.24

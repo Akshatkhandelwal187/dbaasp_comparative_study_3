@@ -1,0 +1,9 @@
+dataset,n_nat/n_syn,feature,median_Natural,median_Synthetic,cliffs_delta,effect,p_value
+before CD-HIT,3239/14957,length,25.0,15.0,0.441,medium,0.0
+before CD-HIT,3239/14957,net_charge,3.0,4.0,-0.28,small,1.644994599872126e-139
+before CD-HIT,3239/14957,charge_density,0.1,0.2857142857142857,-0.598,large,0.0
+before CD-HIT,3239/14957,hydrophobic_fraction,0.425,0.4444444444444444,-0.079,negligible,1.4215664827116085e-12
+after CD-HIT,2308/7314,length,25.0,15.0,0.467,medium,2.53926958192637e-252
+after CD-HIT,2308/7314,net_charge,3.0,4.0,-0.258,small,2.7417160339497374e-79
+after CD-HIT,2308/7314,charge_density,0.0967741935483871,0.2857142857142857,-0.598,large,0.0
+after CD-HIT,2308/7314,hydrophobic_fraction,0.4090909090909091,0.4545454545454545,-0.164,small,1.6215169726511288e-32
