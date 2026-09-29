@@ -1,0 +1,7 @@
+step,rows,natural,synthetic,removed
+1. raw (Natural + Synthetic),25542,4493,21049,0
+2. drop exact duplicates,23542,4087,19455,2000
+3. keep monomers only,22907,3990,18917,635
+4. drop sequences with X / non-standard,18275,3239,15036,4632
+5. drop length < 2,18196,3239,14957,79
+"6-7. add target flags, tidy (final)",18196,3239,14957,0
