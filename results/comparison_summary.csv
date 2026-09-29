@@ -1,0 +1,9 @@
+question,feature,effect_size_delta,effect
+Q1 Natural vs Synthetic,length,0.441,medium
+Q1 Natural vs Synthetic,net_charge,-0.28,small
+Q1 Natural vs Synthetic,charge_density,-0.598,large
+Q1 Natural vs Synthetic,hydrophobic_fraction,-0.079,negligible
+Q3 Mammalian-active vs not,length,-0.069,negligible
+Q3 Mammalian-active vs not,net_charge,0.175,small
+Q3 Mammalian-active vs not,charge_density,0.228,small
+Q3 Mammalian-active vs not,hydrophobic_fraction,0.199,small
