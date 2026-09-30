@@ -1,46 +1,46 @@
-feature,group_1,group_2,cliffs_delta,effect,p_bonferroni
-length,Gram+ only,Gram- only,-0.097,negligible,0.025172204937278814
-length,Gram+ only,Gram+ & Gram-,-0.116,negligible,2.4312931427987324e-05
-length,Gram+ only,Fungus only,-0.057,negligible,1.0
-length,Gram+ only,Virus only,-0.2,small,5.744372738857722e-10
-length,Gram+ only,Cancer only,0.386,medium,3.5691321039684294e-12
-length,Gram- only,Gram+ & Gram-,-0.025,negligible,1.0
-length,Gram- only,Fungus only,0.016,negligible,1.0
-length,Gram- only,Virus only,-0.15,small,1.3157281378330393e-05
-length,Gram- only,Cancer only,0.467,medium,1.3514675069204412e-17
-length,Gram+ & Gram-,Fungus only,0.044,negligible,1.0
-length,Gram+ & Gram-,Virus only,-0.107,negligible,9.470674447306003e-05
-length,Gram+ & Gram-,Cancer only,0.487,large,8.485935185559865e-22
-length,Fungus only,Virus only,-0.108,negligible,0.07464049766851914
-length,Fungus only,Cancer only,0.394,medium,1.4449790305211773e-10
-length,Virus only,Cancer only,0.546,large,3.7814833729498615e-24
-charge_density,Gram+ only,Gram- only,-0.323,small,1.6361955849551485e-24
-charge_density,Gram+ only,Gram+ & Gram-,-0.061,negligible,0.18640588799312835
-charge_density,Gram+ only,Fungus only,0.061,negligible,1.0
-charge_density,Gram+ only,Virus only,0.546,large,9.048179491856122e-72
-charge_density,Gram+ only,Cancer only,0.568,large,6.296103810716995e-26
-charge_density,Gram- only,Gram+ & Gram-,0.295,small,3.033849370186158e-32
-charge_density,Gram- only,Fungus only,0.383,medium,9.604504584375265e-22
-charge_density,Gram- only,Virus only,0.738,large,7.372168235855302e-129
-charge_density,Gram- only,Cancer only,0.783,large,1.7264872939759868e-48
-charge_density,Gram+ & Gram-,Fungus only,0.128,negligible,0.002300398724143614
-charge_density,Gram+ & Gram-,Virus only,0.577,large,3.488948944357612e-129
-charge_density,Gram+ & Gram-,Cancer only,0.606,large,1.7939648587319022e-33
-charge_density,Fungus only,Virus only,0.511,large,2.4343643184386677e-39
-charge_density,Fungus only,Cancer only,0.534,large,1.9121478039923063e-19
-charge_density,Virus only,Cancer only,-0.14,negligible,0.11013353591118588
-hydrophobic_fraction,Gram+ only,Gram- only,0.351,medium,8.922410464876587e-29
-hydrophobic_fraction,Gram+ only,Gram+ & Gram-,0.122,negligible,6.789041406355083e-06
-hydrophobic_fraction,Gram+ only,Fungus only,0.373,medium,7.857609335955564e-21
-hydrophobic_fraction,Gram+ only,Virus only,0.143,negligible,3.3861887701208215e-05
-hydrophobic_fraction,Gram+ only,Cancer only,-0.133,negligible,0.17219330159360666
-hydrophobic_fraction,Gram- only,Gram+ & Gram-,-0.266,small,3.531713669494773e-26
-hydrophobic_fraction,Gram- only,Fungus only,0.009,negligible,1.0
-hydrophobic_fraction,Gram- only,Virus only,-0.271,small,7.623916797353384e-18
-hydrophobic_fraction,Gram- only,Cancer only,-0.45,medium,2.655224024578259e-16
-hydrophobic_fraction,Gram+ & Gram-,Fungus only,0.301,small,8.848288219876377e-18
-hydrophobic_fraction,Gram+ & Gram-,Virus only,0.03,negligible,1.0
-hydrophobic_fraction,Gram+ & Gram-,Cancer only,-0.274,small,3.9734639525721065e-07
-hydrophobic_fraction,Fungus only,Virus only,-0.305,small,3.064903510184605e-14
-hydrophobic_fraction,Fungus only,Cancer only,-0.483,large,9.482434678931471e-16
-hydrophobic_fraction,Virus only,Cancer only,-0.305,small,9.35006828637665e-08
+feature,group_1,group_2,cliffs_delta,effect
+length,Gram+ only,Gram- only,-0.157,small
+length,Gram+ only,Gram+ & Gram-,-0.256,small
+length,Gram+ only,Fungus only,-0.025,negligible
+length,Gram+ only,Virus only,-0.198,small
+length,Gram+ only,Cancer only,0.305,medium
+length,Gram- only,Gram+ & Gram-,-0.129,small
+length,Gram- only,Fungus only,0.102,negligible
+length,Gram- only,Virus only,-0.051,negligible
+length,Gram- only,Cancer only,0.444,large
+length,Gram+ & Gram-,Fungus only,0.175,small
+length,Gram+ & Gram-,Virus only,0.058,negligible
+length,Gram+ & Gram-,Cancer only,0.513,large
+length,Fungus only,Virus only,-0.123,small
+length,Fungus only,Cancer only,0.313,medium
+length,Virus only,Cancer only,0.46,large
+charge_per_residue,Gram+ only,Gram- only,-0.253,small
+charge_per_residue,Gram+ only,Gram+ & Gram-,0.029,negligible
+charge_per_residue,Gram+ only,Fungus only,0.031,negligible
+charge_per_residue,Gram+ only,Virus only,0.563,large
+charge_per_residue,Gram+ only,Cancer only,0.573,large
+charge_per_residue,Gram- only,Gram+ & Gram-,0.322,medium
+charge_per_residue,Gram- only,Fungus only,0.307,medium
+charge_per_residue,Gram- only,Virus only,0.767,large
+charge_per_residue,Gram- only,Cancer only,0.787,large
+charge_per_residue,Gram+ & Gram-,Fungus only,0.014,negligible
+charge_per_residue,Gram+ & Gram-,Virus only,0.579,large
+charge_per_residue,Gram+ & Gram-,Cancer only,0.606,large
+charge_per_residue,Fungus only,Virus only,0.522,large
+charge_per_residue,Fungus only,Cancer only,0.528,large
+charge_per_residue,Virus only,Cancer only,-0.034,negligible
+gravy,Gram+ only,Gram- only,0.302,medium
+gravy,Gram+ only,Gram+ & Gram-,0.011,negligible
+gravy,Gram+ only,Fungus only,0.244,small
+gravy,Gram+ only,Virus only,0.021,negligible
+gravy,Gram+ only,Cancer only,-0.447,large
+gravy,Gram- only,Gram+ & Gram-,-0.308,medium
+gravy,Gram- only,Fungus only,-0.096,negligible
+gravy,Gram- only,Virus only,-0.308,medium
+gravy,Gram- only,Cancer only,-0.668,large
+gravy,Gram+ & Gram-,Fungus only,0.262,small
+gravy,Gram+ & Gram-,Virus only,0.012,negligible
+gravy,Gram+ & Gram-,Cancer only,-0.509,large
+gravy,Fungus only,Virus only,-0.261,small
+gravy,Fungus only,Cancer only,-0.657,large
+gravy,Virus only,Cancer only,-0.53,large

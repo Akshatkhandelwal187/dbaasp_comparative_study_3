@@ -1,5 +1,5 @@
-feature,H,epsilon_sq,p_value,median_Gram+ only,median_Gram- only,median_Gram+ & Gram-,median_Fungus only,median_Virus only,median_Cancer only
-length,147.3,0.026,4.968939530741146e-30,15.0,18.0,18.0,16.0,20.0,8.0
-net_charge,977.2,0.18,5.228743933828228e-209,3.0,5.0,4.0,3.0,0.0,0.0
-charge_density,955.6,0.176,2.4302657895239225e-204,0.17,0.28,0.2,0.14,0.0,0.0
-hydrophobic_fraction,268.8,0.049,5.091313368850691e-56,0.45,0.31,0.42,0.31,0.4,0.5
+feature,H,eta_sq_H,effect,p_value,median_Gram+ only,median_Gram- only,median_Gram+ & Gram-,median_Fungus only,median_Virus only,median_Cancer only
+length,152.4,0.047,small,4.205058500541789e-31,13.0,16.0,18.0,12.0,18.0,8.0
+net_charge,529.1,0.169,large,4.2430079101958595e-112,2.76,3.91,3.01,2.85,-0.21,-0.2
+charge_per_residue,526.4,0.168,large,1.5588074802970582e-111,0.19,0.27,0.18,0.17,-0.01,-0.02
+gravy,199.8,0.063,medium,3.1056267139126066e-41,-0.27,-0.93,-0.18,-0.68,-0.13,0.87
